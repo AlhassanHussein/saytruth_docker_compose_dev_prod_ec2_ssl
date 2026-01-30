@@ -26,8 +26,9 @@ dev: For local development with hot-reloading.
 prod: For production-ready deployment with optimized builds.
 4. Launch the Services
 Start the application using Docker:
+```
 docker compose up
-
+```
 5. Access the Application
 Once the containers are healthy, view your app in the browser:
 Local: http://localhost
