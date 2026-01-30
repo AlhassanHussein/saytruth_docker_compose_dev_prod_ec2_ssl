@@ -19,6 +19,7 @@ Ensure you have a `.env` file in the root directory. This file manages your sens
 Run the included setup script to prepare your environment:
 ```bash
 source setup.sh
+```
 3. Choose Your Mode
 When prompted by the script, select your desired environment:
 dev: For local development with hot-reloading.
